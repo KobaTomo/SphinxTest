@@ -10,6 +10,8 @@ Welcome to UDONPY LOG's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   sample
+
 
 
 Indices and tables
