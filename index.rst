@@ -10,6 +10,7 @@ Welcome to UDONPY LOG's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   udonpylog
    sample
 
 
