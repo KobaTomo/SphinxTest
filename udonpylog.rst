@@ -10,7 +10,7 @@
 ===============================
 #. 自己紹介。近況報告など
 #. ドキュメント作成どう?
-#. Sphinx Install
+#. `Sphinx Install <https://sphinx-users.jp/gettingstarted/index.html>`__
 #. html出力させよー。
 #. reStructuredTextの基本的な使い方が理解できる
 #. conf.pyでスタイルを変更してみる
