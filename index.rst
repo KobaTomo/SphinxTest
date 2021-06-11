@@ -13,8 +13,6 @@ Welcome to UDONPY LOG's documentation!
    udonpylog
    sample
 
-
-
 Indices and tables
 ==================
 
